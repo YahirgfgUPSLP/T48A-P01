@@ -21,8 +21,8 @@ print(suma)
 
 # 3. Usar un bucle for para imprimir los números del 1 al 10
 def bucle_for():
-    for i in range(1,11):
-      print(i)
+    for num in range(1,11):
+      print(num)
 
 # 5. Usar un bucle para imprimir cada número
 def print_numbers():
