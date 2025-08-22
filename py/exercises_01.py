@@ -20,7 +20,6 @@ suma = sumar(5,6)
 print(suma)
 
 # 3. Usar un bucle for para imprimir los números del 1 al 10
-# reemplaza la palabra reservada pass con tu código
 def bucle_for():
     for i in range(1,11):
       print(i)
