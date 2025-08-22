@@ -17,7 +17,6 @@ matricula = int(177887)
 def sumar(a, b):
     return a+b
 suma = sumar(5,6)
-print(suma)
 
 # 3. Usar un bucle for para imprimir los números del 1 al 10
 def bucle_for():
